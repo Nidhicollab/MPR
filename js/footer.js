@@ -8,29 +8,29 @@ const createFooter = () => {
             <div class="footer-ul-container">
                 <ul class="category">
                     <li class="category-title">Best Sellers</li>
-                    <li><a href="#" class="footer-link">Fiction</a></li>
+                    <li><a href="fiction.html" class="footer-link">Fiction</a></li>
                     <li><a href="#" class="footer-link">History</a></li>
                     <li><a href="#" class="footer-link">Law</a></li>
                     <li><a href="#" class="footer-link">Music</a></li>
-                    <li><a href="#" class="footer-link">Fantasy</a></li>
-                    <li><a href="#" class="footer-link">Children</a></li>
-                    <li><a href="#" class="footer-link">Business</a></li>
-                    <li><a href="#" class="footer-link">Economics</a></li>
-                    <li><a href="#" class="footer-link">Comedy</a></li>
+                    <li><a href="fiction.html" class="footer-link">Fantasy</a></li>
+                    <li><a href="children.html" class="footer-link">Children</a></li>
+                    <li><a href="business.html" class="footer-link">Business</a></li>
+                    <li><a href="business.html" class="footer-link">Economics</a></li>
+                    <li><a href="comedy.html" class="footer-link">Comedy</a></li>
                     <li><a href="#" class="footer-link">Romance</a></li>
 
                 </ul>
                 <ul class="category">
                     <li class="category-title">New Arrivals</li>
-                    <li><a href="#" class="footer-link">Fiction</a></li>
+                    <li><a href="fiction.html" class="footer-link">Fiction</a></li>
                     <li><a href="#" class="footer-link">History</a></li>
                     <li><a href="#" class="footer-link">Law</a></li>
                     <li><a href="#" class="footer-link">Music</a></li>
-                    <li><a href="#" class="footer-link">Fantasy</a></li>
-                    <li><a href="#" class="footer-link">Children</a></li>
-                    <li><a href="#" class="footer-link">Business</a></li>
-                    <li><a href="#" class="footer-link">Economics</a></li>
-                    <li><a href="#" class="footer-link">Comedy</a></li>
+                    <li><a href="fiction.html" class="footer-link">Fantasy</a></li>
+                    <li><a href="children.html" class="footer-link">Children</a></li>
+                    <li><a href="business.html" class="footer-link">Business</a></li>
+                    <li><a href="business.html" class="footer-link">Economics</a></li>
+                    <li><a href="comedy.html" class="footer-link">Comedy</a></li>
                     <li><a href="#" class="footer-link">Romance</a></li>
                 </ul>
             </div>
@@ -38,14 +38,14 @@ const createFooter = () => {
 
         </div>
         <p class="footer-title">about company</p>
-        <p class="info">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat tempore ad suscipit, eos
-            eius quisquam sed optio nisi quaerat fugiat ratione et vero maxime praesentium, architecto minima
-            reiciendis iste quo deserunt assumenda alias ducimus. Ullam odit maxime id voluptates rerum tenetur
-            corporis laboriosam! Cum error ipsum laborum tempore in rerum necessitatibus nostrum nobis modi! Debitis
-            adipisci illum nemo aperiam sed, et accusamus ut officiis. Laborum illo exercitationem quo culpa
-            reprehenderit excepturi distinctio tempore cupiditate praesentium nisi ut iusto, assumenda perferendis
-            facilis voluptas autem fuga sunt ab debitis voluptatum harum eum. Asperiores, natus! Est deserunt
-            incidunt quasi placeat omnis, itaque harum?</p>
+        <p class="info">We at Exciting Adventure house a wide range of adventures ranging from children's books to the up's and downs in business.
+        <br>
+        <br>
+        Exciting Adventure aims to be a point of cultural and social interaction where authors and poets hold court, where children are regaled, where people gravitate to be informed, to be entertained, even enlightened. The name embodies the vision of  Exciting Adventure as a place and space for people who seek adventure , information, knowledge or just the pleasure of reading. 
+        <br>
+        <br>
+        With its large children’s section and its focus on making the store a friendly, safe, fun-filled place, Exciting Adventure attracts many families who normally don’t think of visiting bookstores. The unobtrusive helpful user friendly interface assists customers in finding the right books for the right occasion. 
+        </p>
         <p class="info">support emails - help@excitingadventure.com, customersupport@excitingadventure.com</p>
         <p class="info">telephone - 180 00 00 001, 180 00 00 002</p>
         <div class="footer-social-container">

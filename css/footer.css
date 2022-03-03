@@ -10,6 +10,7 @@ footer{
     display: flex;
     width: 100%;
     justify-content: space-between;
+    
 }
 
 .footer-content .logo{
@@ -36,6 +37,7 @@ footer{
     color: #fff;
     font-size: 20px;
     margin-bottom: 20px;
+    
 }
 
 .category .footer-link{
